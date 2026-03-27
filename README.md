@@ -1,17 +1,9 @@
 # Berke Tufenk
 
-Product Manager working in the physical security space — CCTV, VMS, and perimeter protection systems.
+Product Manager. I work in physical security — cameras, perimeter systems, the software that sits between hardware and the people monitoring it.
 
-I use this space to document things I'm thinking about: competitive landscapes, product ideas, and patterns I notice across the industry. Most of it is rough and ongoing rather than polished.
+Most of what I think about: where AI-driven products meet real operational friction, and why the gap between what a system can do and what operators actually need is bigger than most vendors admit.
 
----
+I write up the problems I find interesting in [product-management-hub](https://github.com/berketufenk/product-management-hub).
 
-**What's here**
-
-- [weekly-ideas-log](https://github.com/berketufenk/weekly-ideas-log) — one idea per week, written out properly
-- [product-management-hub](https://github.com/berketufenk/product-management-hub) — competitive analyses and PM notes
-- [data-analytics-projects](https://github.com/berketufenk/data-analytics-projects) — SQL and analytics work
-
----
-
-[LinkedIn](https://linkedin.com/in/berketufenk) · [X](https://x.com/berketufenk)
+[LinkedIn](https://linkedin.com/in/berketufenk)
